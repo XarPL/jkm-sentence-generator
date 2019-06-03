@@ -1,39 +1,15 @@
 
 	var w1 = [
-		"Ja chcę powiedzieć jedną rzecz: ",
-		"Trzeba powiedzieć jasno: ",
-		"Jak powiedział wybitny krakowianin Stanisław Lem ",
-		"Proszę mnie dobrze zrozumieć: ",
-		"Ja chciałem państwu przypomnieć że ",
-		"Niech państwo nie mają złudzeń: ",
-		"Powiedzmy to wyraźnie: "
+		"Witam państwa, ja z Brukseli - jak wiadomo w siedzibie muzułmańskiego terroru a w Paryżu "
 	];
 	var w2 = [
-		"przedstawiciele czerwonej hołoty ",
-		"ci wszyscy (tfu!) geje ",
-		"funkcjonariusze reżymowej telewizji ",
-		"tak zwani ekolodzy ",
-		"ci wszyscy (tfu!) demokraci ",
-		"agenci bezpieki ",
-		"feminazistki "
+		"ekoterroryści "
 	];
 	var w3 = [
-		"zupełnie bezkarnie ",
-		"całkowicie bezczelnie ",
-		"o poglądach na lewo od komunizmu ",
-		"celowo i świadomie ",
-		"z premedytacją ",
-		"od czasów Okrągłego Stołu ",
-		"w ramach postępu "
+		"pod pretekstem walki z globalnym ociepleniem "
 	];
 	var w4 = [
-		"nawołują do podniesienia podatków ",
-		"próbują wyrzucić kierowców z miast ",
-		"próbują skłócić Polskę z Rosją ",
-		"głoszę brednię o globalnym ociepleniu ",
-		"zakazują posiadania broni ",
-		"nie dopuszczają prawicy do władzy ",
-		"uczą dzieci homoseksualizmu "
+		"usiłują nas obrabować z naprawdę ogromnych sum, spowodować ogromne ilości nieszczęść "
 	];
 	var w5 = [
 		"bo dzięki temu mogą kraść ",
