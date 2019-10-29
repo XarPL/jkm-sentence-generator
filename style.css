@@ -3,11 +3,45 @@ html
 	background: url(jkm_bg.gif);
 	background-size: 100vw 100vh;
 }
+body
+{
+	margin: 0;
+}
+button
+{
+	position: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+}
 #sentenceBox
 {
-	color: white;
-	font-family: 'Quintessential', cursive;
+	color: black;
 	font-size: xx-large;
-	text-shadow: 0px 0px 5px black;
-	background-color: #00000080;
+	position: fixed;
+	background: #ffffff;
+	border-radius: .4em;
+    width: 50%;
+    min-height: 10%;
+    left: 40%;
+    top: 15%;
+    padding: 20px;
+	max-height: calc(75vh - 50px);
+}
+#sentenceBox:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 32px solid transparent;
+	border-right-color: #ffffff;
+	border-left: 0;
+	border-top: 0;
+	margin-top: -16px;
+	margin-left: -32px;
 }
